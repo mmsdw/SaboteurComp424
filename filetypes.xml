@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="JAVA" />
       <mapping pattern="Egg" type="JAVA" />
       <mapping pattern="dfa" type="JAVA" />
+      <mapping pattern="test.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
